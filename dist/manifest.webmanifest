@@ -1,1 +1,1 @@
-{"name":"Mis marcas","short_name":"Mis marcas","start_url":"./","display":"standalone","background_color":"#fafaff","theme_color":"#5630bf","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"id":"/mis-marcas/","name":"Mis marcas","short_name":"Mis marcas","start_url":"/mis-marcas/","scope":"/mis-marcas/","display":"standalone","background_color":"#fafaff","theme_color":"#5630bf","icons":[{"src":"/mis-marcas/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
